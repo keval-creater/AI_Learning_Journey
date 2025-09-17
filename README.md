@@ -13,18 +13,18 @@ This repository documents my complete journey — from **Python fundamentals** t
 
 ## 📂 Repository Structure
 
-AI_Learning_Journey/
+AI_Learning_Journey/                                
 │
-├── Learning/ # Daily learning notebooks (day1.ipynb, day2.ipynb, ...)
-│ └── README.md
+├── Learning/ # Daily learning notebooks (day1.ipynb, day2.ipynb, ...)                                          
+│ └── README.md                 
+│                      
+├── AI Projects/ # Practical AI/ML mini-projects                          
+│ └── README.md                                                      
 │
-├── AI Projects/ # Practical AI/ML mini-projects
-│ └── README.md
+├── Notes/ # Study notes, references, and cheat sheets                     
+│ └── python_cheatsheet.md                     
 │
-├── Notes/ # Study notes, references, and cheat sheets
-│ └── python_cheatsheet.md
-│
-└── README.md # Overview of the journey
+└── README.md # Overview of the journey                         
 
 
 ---
