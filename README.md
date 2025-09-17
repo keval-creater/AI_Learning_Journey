@@ -57,6 +57,6 @@ AI_Learning_Journey/
 ---
 
 ## 📝 Author
-**Your Name**  
-[GitHub Profile](https://github.com/your-username)
+**KEVAL SUKASE**  
+[GitHub Profile](https://github.com/keval-creator)
 
